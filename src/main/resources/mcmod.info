@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "draconicpatcher",
+    "name": "Draconic Patcher",
+    "description": "Culls unnecessary gl calls for greater compatability",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["UvMidnight"],
+    "credits": "Ashweeb for the help discovering",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
